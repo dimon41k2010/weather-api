@@ -23,6 +23,12 @@ To execute all pytest tests run command:
 pytest weather_api_test.py 
 ```
 
+or if you don't have enironmental variables set up run:
+
+```bash
+python3 -m pytest weather_api_test.py 
+```
+
 To generate HTML and XML reports run command:
 
 ```bash
