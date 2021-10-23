@@ -36,9 +36,9 @@ pytest weather_api_test.py -rA --html=MyHTML_API_Jokes_Result.html
 pytest weather_api_test.py -rA --junitxml=MyXML_API_Jokes_Result.xml
 ```
 To execute tests separately with reports run commands accordingly:
-    script1: Run test by city name.
-    script2: Run test by latitude and longitude.
-    script3: Run test by ZIP code.
+  <p> script1: Run test by city name.</p>
+  <p> script2: Run test by latitude and longitude.</p>
+  <p> script3: Run test by ZIP code.</p>
 
 ```bash
 pytest weather_api_test.py -k script1
