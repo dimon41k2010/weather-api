@@ -9,6 +9,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libs.
 pip install -r requirements.txt
 ```
 
+You need to create a file .env where you store [api key](https://openweathermap.org/current):
+
+```bash
+API_KEY = {API key}
+```
+
 ## Usage
 
 To execute all pytest tests run command:
