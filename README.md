@@ -1,5 +1,5 @@
 # weather-api
-Test project to test weather APIs
+Test project to test weather APIs. You can find a video of test execution [here](https://drive.google.com/file/d/1bW_HWFMJUkj0ISudg-owcdQ1akT0-3wo/view?usp=sharing).
 
 ## Installation
 
