@@ -32,8 +32,8 @@ python3 -m pytest weather_api_test.py
 To generate HTML and XML reports run command:
 
 ```bash
-pytest weather_api_test.py -rA --html=MyHTML_API_Jokes_Result.html 
-pytest weather_api_test.py -rA --junitxml=MyXML_API_Jokes_Result.xml
+pytest weather_api_test.py -rA --html=MyHTML_weather_API_Result.html
+pytest weather_api_test.py -rA --junitxml=MyXML_weather_API_Result.xml
 ```
 To execute tests separately with reports run commands accordingly:
   <p> script1: Run test by city name.</p>
